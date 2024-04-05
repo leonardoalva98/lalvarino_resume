@@ -2,12 +2,11 @@
 layout: cv
 title: Leonardo Alvarino's Resume
 ---
-# Brigham Young
+# Leonardo Alvarino
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="datascience@byui.edu">alv22027@byui.edu</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
@@ -19,60 +18,33 @@ title: Leonardo Alvarino's Resume
 `2016-2021`
 __UTEC__, Lima, Peru
 
-- Full academic scholarship with 4.0 GPA
+- Industrial Engineering - 3.6
 
-`201-2021`
+`2023-present`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Data Science - 4.0
 
 
-## Related Experience
+## Work Experience
 
-### Internships
+### Assistant Network Engineer
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`March 2023 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Initiate and set up Ethernet switch ports throughout all campus buildings, ensuring proper activation and configuration
+- Troubleshoot and resolve incidents regarding network connection issues.
+- Manage network access on campus devices with Aruba ClearPass.
 
-### Data Science Lead
+### Customer Experience Internship
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`August 2021 - December 2022`
+__Primax Corporation__ - Lima, Peru
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-
-
+- Elaborate BI dashboards and presentations that highlight key performance indicators, providing a comprehensive assessment of the impact resulting from process changes.
+- Coordinate and communicate with various teams in the area regarding emerging process improvement opportunities.
+- Blocked orders in the company were reduced by 60%.
 
 
 <!-- ### Footer

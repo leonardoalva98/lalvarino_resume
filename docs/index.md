@@ -46,7 +46,8 @@ __Primax Corporation__ - Lima, Peru
 - Coordinate and communicate with various teams in the area regarding emerging process improvement opportunities.
 - Blocked orders in the company were reduced by 60%.
 
-
+## Skills
+Python, MySQL, ...
 <!-- ### Footer
 
 Last updated: May 2013 -->

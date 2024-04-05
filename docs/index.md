@@ -7,8 +7,8 @@ title: Leonardo Alvarino's Resume
 
 <div id="webaddress">
 <a href="datascience@byui.edu">alv22027@byui.edu</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/leonardo-alvari%C3%B1o-serina-858b03160/">LinkedIn</a>
+| <a href="https://github.com/leonardoalva98">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -47,9 +47,8 @@ __Primax Corporation__ - Lima, Peru
 - Blocked orders in the company were reduced by 60%.
 
 ## Skills
-Python, MySQL, ...
-<!-- ### Footer
+Python (Pandas, Plotly, Matplotlib, Numpy, Scikit-learn), MySQL, R, Excel, Tableau, Power BI.
 
-Last updated: May 2013 -->
+<!-- ### Footer Last updated: May 2013 -->
 
 

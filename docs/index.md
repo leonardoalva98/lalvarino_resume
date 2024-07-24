@@ -47,7 +47,7 @@ __Primax Corporation__ - Lima, Peru
 - Blocked orders in the company were reduced by 60%.
 
 ## Skills
-Python (Pandas, Plotly, Matplotlib, Numpy, Scikit-learn), MySQL, R, Excel, Tableau, Power BI.
+Python (Pandas, Plotly, Matplotlib, Numpy, Scikit-learn), MySQL, R, Excel, Tableau, Power BI...
 
 <!-- ### Footer Last updated: May 2013 -->
 

@@ -34,7 +34,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Liberty LLC__, Island Park, ID
 
 - Clean and preprocess data sets to ensure quality for analysis.
-- Develop dashboards reporting for KPIs for both operations and finance.
+- Develop Power BI dashboards reporting for KPIs for both operations and finance.
 - Provide technical assistance to resort staff and guests regarding website functionality, online
 booking systems, and other IT-related issues.
 

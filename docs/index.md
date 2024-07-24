@@ -28,9 +28,19 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Work Experience
 
+### IT Development and Support Intern
+
+`June 2024 - Present`
+__Liberty LLC__, Island Park, ID
+
+- Clean and preprocess data sets to ensure quality for analysis.
+- Develop dashboards reporting for KPIs for both operations and finance.
+- Provide technical assistance to resort staff and guests regarding website functionality, online
+booking systems, and other IT-related issues.
+
 ### Assistant Network Engineer
 
-`March 2023 - Present`
+`March 2023 - May 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Initiate and set up Ethernet switch ports throughout all campus buildings, ensuring proper activation and configuration
@@ -47,7 +57,7 @@ __Primax Corporation__ - Lima, Peru
 - Blocked orders in the company were reduced by 60%.
 
 ## Skills
-Python (Pandas, Plotly, Matplotlib, Numpy, Scikit-learn), MySQL, R, Excel, Tableau, Power BI...
+Python (Pandas, Plotly, Matplotlib, Numpy, Scikit-learn), Power BI, MySQL, R, Excel, Tableau.
 
 <!-- ### Footer Last updated: May 2013 -->
 
